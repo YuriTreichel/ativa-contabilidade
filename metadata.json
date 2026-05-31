@@ -1,0 +1,6 @@
+{
+  "name": "Ativa Contabilidade",
+  "description": "Professional accounting and consulting website with engaging animations and a modern responsive layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-ativa-gold: #bfa980;
+  --color-ativa-orange: #df8c63;
+  --color-ativa-blue: #2a3449;
+  --color-ativa-dark: #181510;
+  --color-ativa-card: #1a1712;
+  --color-ativa-light: #f9f8f6;
+  
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", ui-serif, Georgia, serif;
+}
+
+@layer base {
+  body {
+    @apply font-sans bg-white text-gray-800 antialiased overflow-x-hidden;
+  }
+}
