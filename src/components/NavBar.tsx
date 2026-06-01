@@ -31,7 +31,7 @@ export function NavBar() {
       }`}>
         <a href="#home" className="flex items-center gap-2">
           <img 
-            src="/images/logo.png" 
+            src="./images/logo.png" 
             alt="Ativa Contabilidade" 
             className="h-12 md:h-[80px] w-auto object-contain"
           />

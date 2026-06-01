@@ -10,7 +10,7 @@ export function Footer() {
           <div className="flex flex-col gap-6">
             <div className="flex items-center gap-2">
               <img 
-                src="/images/logo.png" 
+                src="./images/logo.png" 
                 alt="Ativa Contabilidade BG" 
                 className="h-12 w-auto object-contain"
               />
